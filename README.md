@@ -1,4 +1,4 @@
 # Local-Library-Django
 Django Practice
 
-Add a Secret Key to the Settings File
+Add a Secret Key to the settings.py in mytestsite directory
